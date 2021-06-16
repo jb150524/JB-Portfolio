@@ -1,7 +1,7 @@
 # JB-Portfolio
 Website Design
 URL deployed: https://jb150524.github.io/JB-Portfolio/
-URL : file:///Users/jja/FullStack_HW/juanwebsite/index.html
+URL GitHub: https://github.com/jb150524/JB-Portfolio.git
 
 For this homework I was assigned to create a portfolio website.
 
